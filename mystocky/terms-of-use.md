@@ -1,3 +1,9 @@
+---
+layout: default
+title: MyStocky Terms of Use
+permalink: /mystocky/terms-of-use/
+---
+
 # Terms of Use for MyStocky
 
 **Effective Date:** June 2, 2026  

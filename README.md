@@ -35,6 +35,18 @@ More apps coming soon.
 
 ---
 
+## 🌐 Live Site (GitHub Pages)
+
+These documents are published as web pages via GitHub Pages (Jekyll):
+
+- **Home:** https://elicohen.github.io/legal/
+- **MyStocky Privacy Policy:** https://elicohen.github.io/legal/mystocky/privacy-policy/
+- **MyStocky Terms of Use:** https://elicohen.github.io/legal/mystocky/terms-of-use/
+
+> **To enable:** in the repo **Settings → Pages**, set **Source = Deploy from a branch**, branch **main**, folder **/ (root)**.
+
+---
+
 ## 📖 How to Navigate
 
 1. Find your app's folder above
