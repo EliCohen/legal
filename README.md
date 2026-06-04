@@ -12,7 +12,7 @@ Each app has its own directory containing a Privacy Policy, Terms of Use, and ot
 legal/
 ├── README.md              ← This file
 ├── mystocky/
-│   ├── README.md          ← MyStocky-specific overview
+│   ├── README.md
 │   ├── privacy-policy.md
 │   └── terms-of-use.md
 ├── [app-2]/
