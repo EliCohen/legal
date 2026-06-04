@@ -1,0 +1,14 @@
+title: EliCohen — Legal Documents
+description: Privacy Policies and Terms of Use for EliCohen applications.
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+
+# Exclude non-content files from the published site
+exclude:
+  - README.md
+  - "*/README.md"
+  - Gemfile
+  - Gemfile.lock
+  - vendor
