@@ -9,7 +9,7 @@
 
 MyStocky ("the App," "we," "our," or "us") is an iOS application for managing home inventory and storage. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App, and your rights regarding that information.
 
-We are committed to protecting your privacy and ensuring you have a positive experience on our App. Please read this Privacy Policy carefully. If you have questions about our privacy practices, contact us at [support@mystocky.app](mailto:support@mystocky.app).
+We are committed to protecting your privacy and ensuring you have a positive experience on our App. Please read this Privacy Policy carefully. If you have questions about our privacy practices, contact us at [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com).
 
 ---
 
@@ -146,7 +146,7 @@ Premium users who opt into family sharing and multi-device sync have their data 
 - Right to opt-out of the "sale" of personal information (we do not sell data)
 - Right to non-discrimination for exercising your rights
 
-To exercise these rights, contact us at [support@mystocky.app](mailto:support@mystocky.app) with:
+To exercise these rights, contact us at [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com) with:
 - Your request (access, deletion, portability, or opt-out)
 - Proof of identity (e.g., email associated with your account)
 
@@ -166,7 +166,7 @@ We do **not** share your personal data with third parties except:
 
 ## 8. Children's Privacy
 
-MyStocky is not intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information and cancel the child's access to the App. If you believe we have collected personal information from a child under 13, contact us immediately at [support@mystocky.app](mailto:support@mystocky.app).
+MyStocky is not intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information and cancel the child's access to the App. If you believe we have collected personal information from a child under 13, contact us immediately at [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com).
 
 ---
 
@@ -194,7 +194,7 @@ You have the right to:
 - **Opt-Out** of the "sale" of your personal information (we do not sell data)
 - **Non-Discrimination:** We will not discriminate against you for exercising your rights
 
-To submit a CCPA request, email [support@mystocky.app](mailto:support@mystocky.app) or complete a verifiable consumer request. We will respond within 45 days.
+To submit a CCPA request, email [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com) or complete a verifiable consumer request. We will respond within 45 days.
 
 ---
 
@@ -225,7 +225,7 @@ Your data may be transferred to servers located outside the EU (e.g., Apple's iC
 
 ### 10.4 Data Protection Officer
 
-To contact our data protection representative or raise a privacy concern under GDPR, email [support@mystocky.app](mailto:support@mystocky.app).
+To contact our data protection representative or raise a privacy concern under GDPR, email [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com).
 
 ---
 
@@ -253,11 +253,7 @@ Your continued use of the App after changes become effective constitutes accepta
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** [support@mystocky.app](mailto:support@mystocky.app)  
-**Mailing Address:**  
-MyStocky Support  
-[Your Company Address]  
-[Country]
+**Email:** [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com)  
 
 **Response Time:** We will respond to privacy inquiries within 30 days.
 
