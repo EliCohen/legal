@@ -2,6 +2,10 @@ title: EliCohen — Legal Documents
 description: Privacy Policies and Terms of Use for EliCohen applications.
 theme: jekyll-theme-cayman
 
+# Required by jekyll-github-metadata so the Cayman theme layout can resolve
+# site.github.* fields when building in GitHub Actions (no origin remote there).
+repository: EliCohen/legal
+
 # Build settings
 markdown: kramdown
 
