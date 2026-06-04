@@ -29,7 +29,7 @@ You may use MyStocky only if you are:
 **For Premium Subscriptions:**
 - You are responsible for maintaining the confidentiality of your Apple ID and any passwords
 - You are fully responsible for all activity that occurs under your account
-- You agree to notify us immediately of any unauthorized use of your account by contacting [support@mystocky.app](mailto:support@mystocky.app)
+- You agree to notify us immediately of any unauthorized use of your account by contacting [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com)
 
 **For Free Accounts:**
 - No account creation is required; your data is stored locally on your device
@@ -186,7 +186,7 @@ You agree **NOT** to:
 - **Recovery:** If data is lost or corrupted:
   - For local data, restore from an iOS backup if available
   - For iCloud data, contact Apple Support for iCloud recovery options
-  - Contact us at [support@mystocky.app](mailto:support@mystocky.app) for troubleshooting
+  - Contact us at [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com) for troubleshooting
 
 ---
 
@@ -334,7 +334,7 @@ These Terms of Use are governed by the laws of **[Your Jurisdiction, e.g., the s
 ### 13.2 Dispute Resolution
 
 **For Users in the United States:**
-- **Informal Resolution First:** If a dispute arises, contact us at [support@mystocky.app](mailto:support@mystocky.app) to attempt resolution
+- **Informal Resolution First:** If a dispute arises, contact us at [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com) to attempt resolution
 - **Arbitration:** Any dispute that cannot be resolved informally will be resolved by binding arbitration administered by JAMS or AAA, not by court litigation
 - **Exceptions:** Claims involving intellectual property rights or claims for injunctive relief may be brought in court
 
@@ -385,7 +385,7 @@ These Terms of Use, together with our Privacy Policy, constitute the entire agre
 
 For questions, complaints, or support requests:
 
-**Email:** [support@mystocky.app](mailto:support@mystocky.app)  
+**Email:** [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com)  
 **Response Time:** We aim to respond to support requests within 48 business hours.
 
 ### 17.2 Notice to Apple
@@ -402,7 +402,7 @@ MyStocky complies with the Apple App Store Terms of Service. In the event of any
 
 ### 18.2 Accessibility
 
-We are committed to making MyStocky accessible to users with disabilities. If you experience accessibility issues, please contact us at [support@mystocky.app](mailto:support@mystocky.app).
+We are committed to making MyStocky accessible to users with disabilities. If you experience accessibility issues, please contact us at [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com).
 
 ### 18.3 Export Compliance
 
@@ -450,12 +450,12 @@ By using MyStocky, you acknowledge that you have read and understood these Terms
 ## Appendix B: Subscription Pricing (Example)
 
 **Standard Pricing (subject to change):**
-- **Monthly:** $4.99/month (billed monthly, auto-renew)
-- **Annual:** $39.99/year (billed annually, auto-renew)
+- **Monthly:** $2.99/month (billed monthly, auto-renew)
+- **Annual:** $19.99/year (billed annually, auto-renew)
 
 **Region Variations:**
 Pricing in the App Store is localized by region and currency per Apple's pricing tiers. Prices shown in your device's region in the App Store are the prices that apply.
 
 ---
 
-*This Terms of Use agreement is provided in English. If there are discrepancies between this version and any translated version, the English version prevails. Users in non-English-speaking regions may request a translation.*
+*These Terms of Use agreement is provided in English. If there are discrepancies between this version and any translated version, the English version prevails. Users in non-English-speaking regions may request a translation.*
