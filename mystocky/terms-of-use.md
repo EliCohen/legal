@@ -13,6 +13,8 @@ These Terms of Use apply to:
 - Free-tier users (basic inventory management, local storage only)
 - Premium-tier users (multi-device sync, family sharing, unlimited inventory)
 
+MyStocky is operated by an individual developer.
+
 ---
 
 ## 2. Eligibility and Account Responsibility
@@ -59,7 +61,7 @@ All content in the App, including but not limited to:
 - Documentation
 - Any text, images, or data displayed in the App
 
-...is owned by MyStocky or our licensors and protected by copyright, trademark, and other intellectual property laws. You may not reproduce, modify, distribute, or create derivative works of any App content without written permission.
+...is owned by the developer of MyStocky or our licensors and protected by copyright, trademark, and other intellectual property laws. You may not reproduce, modify, distribute, or create derivative works of any App content without written permission.
 
 ### 3.3 Your User Content
 
@@ -67,7 +69,7 @@ All content in the App, including but not limited to:
 
 **Your Rights:**
 - You retain full ownership of your User Content
-- You grant MyStocky a royalty-free, non-exclusive, perpetual license to use, store, and display your User Content solely to provide and improve the App
+- You grant MyStocky a limited, royalty-free, non-exclusive license to store and display your User Content **solely to operate and provide the App's features (such as cloud sync and family sharing) on your behalf, for as long as you use those features**. This license ends when you delete the content or stop using the relevant feature.
 
 **Prohibited Use of User Content:**
 - We will not sell, license, or share your User Content with third parties
@@ -90,14 +92,14 @@ The Premium subscription includes:
 ### 4.2 Subscription Terms
 
 - **Billing:** Subscriptions are billed through Apple's App Store via StoreKit
-- **Renewal:** Subscriptions auto-renew at the end of each billing period unless canceled
+- **Renewal:** Subscriptions auto-renew at the end of each billing period unless canceled at least 24 hours before the end of the current period
 - **Cancellation:** You can cancel at any time through your Apple ID Settings:
   - Open the App Store
   - Tap your profile icon
   - Go to **Subscriptions → MyStocky → Manage Subscription**
   - Select **Cancel Subscription**
   - Cancellation takes effect at the end of the current billing period
-- **Refunds:** Apple's refund policy applies. Refund requests must be submitted to Apple within 14 days of purchase. We do not process refunds directly.
+- **Refunds:** Apple's refund policy applies. Refund requests must be submitted to Apple (e.g., via reportaproblem.apple.com). We do not process refunds directly.
 
 ### 4.3 Free Trial (If Applicable)
 
@@ -108,7 +110,7 @@ If MyStocky offers a free trial:
 
 ### 4.4 Price Changes
 
-- We may change subscription pricing with 30 days' notice
+- We may change subscription pricing with notice as required by Apple
 - Price changes will be shown in the App Store before renewal
 - If you do not agree to the new price, you may cancel your subscription
 
@@ -149,7 +151,7 @@ You agree **NOT** to:
 ### 5.5 Circumventing Restrictions
 - Do not attempt to bypass Free-tier limits (e.g., by creating multiple accounts)
 - Do not share a Premium account across unauthorized users
-- Do not use the App in a way that imposes an unreasonable load on our servers
+- Do not use the App in a way that imposes an unreasonable or abusive load on the iCloud/CloudKit infrastructure or otherwise interferes with the Service for other users
 
 ---
 
@@ -160,7 +162,7 @@ You agree **NOT** to:
 - MyStocky is **offline-first**: all data is stored locally on your device
 - You can view, edit, and manage your inventory **without an internet connection**
 - Local storage is the authoritative source of truth for your data
-- We do not store copies of your data on our servers
+- We do not operate our own servers, and we do not keep a separate copy of your data
 
 ### 6.2 Premium Sync (Premium Users Only)
 
@@ -180,8 +182,8 @@ You agree **NOT** to:
   
 - **Prevention:** We strongly recommend:
   - Keeping your device software up to date
-  - Enabling iOS automatic backups via iCloud or iTunes
-  - Periodically exporting your data for backup (feature planned for future release)
+  - Enabling iOS automatic backups via iCloud or Finder
+  - Periodically exporting your data for backup (where the feature is available)
 
 - **Recovery:** If data is lost or corrupted:
   - For local data, restore from an iOS backup if available
@@ -277,7 +279,7 @@ The App may contain links to third-party websites or services (e.g., App Store r
 
 ## 10. Indemnification
 
-You agree to **indemnify and hold harmless** MyStocky, its developers, and our affiliates from any claims, damages, or costs (including attorney fees) arising from:
+You agree to **indemnify and hold harmless** the developer of MyStocky from any claims, damages, or costs (including attorney fees) arising from:
 - Your violation of these Terms of Use
 - Your use of the App in an illegal or harmful manner
 - Your User Content or data
@@ -329,7 +331,7 @@ Your use of MyStocky is also governed by our **Privacy Policy** (separate docume
 
 ### 13.1 Governing Law
 
-These Terms of Use are governed by the laws of **[Your Jurisdiction, e.g., the state of California, United States]**, without regard to conflict of law principles.
+These Terms of Use are governed by the laws of **[Your country or state of residence]**, without regard to conflict of law principles, except where mandatory consumer protection laws of your country of residence apply.
 
 ### 13.2 Dispute Resolution
 
@@ -408,6 +410,19 @@ We are committed to making MyStocky accessible to users with disabilities. If yo
 
 The App is subject to U.S. export controls. You agree not to export or re-export the App to countries or entities on the U.S. Treasury OFAC list or to prohibited persons or entities.
 
+### 18.4 Apple-Required Terms (EULA Minimum Terms)
+
+Because the App is downloaded from the Apple App Store, the following additional terms apply, and you acknowledge and agree that:
+
+1. **Scope of License:** This Agreement is between you and the developer of MyStocky only, and **not with Apple**. Apple is not responsible for the App or its content.
+2. **Maintenance and Support:** The developer of MyStocky, not Apple, is solely responsible for providing any maintenance and support for the App. Apple has no obligation to furnish any maintenance or support services.
+3. **Warranty:** In the event of any failure of the App to conform to any applicable warranty, you may notify Apple, and Apple may refund the purchase price (if any) you paid for the App. To the maximum extent permitted by applicable law, Apple has no other warranty obligation whatsoever with respect to the App.
+4. **Product Claims:** The developer of MyStocky, not Apple, is responsible for addressing any claims by you or any third party relating to the App or your use of it, including (a) product liability claims; (b) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection, privacy, or similar legislation.
+5. **Intellectual Property Rights:** In the event of any third-party claim that the App or your use of it infringes that third party's intellectual property rights, the developer of MyStocky, not Apple, will be solely responsible for the investigation, defense, settlement, and discharge of any such claim.
+6. **Legal Compliance:** You represent and warrant that (a) you are not located in a country that is subject to a U.S. Government embargo or that has been designated as a "terrorist-supporting" country; and (b) you are not listed on any U.S. Government list of prohibited or restricted parties.
+7. **Third-Party Beneficiary:** Apple and Apple's subsidiaries are third-party beneficiaries of this Agreement, and upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary.
+8. **Developer Contact:** Any questions, complaints, or claims regarding the App should be directed to [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com).
+
 ---
 
 ## 19. Acknowledgment
@@ -447,7 +462,7 @@ By using MyStocky, you acknowledge that you have read and understood these Terms
 
 ---
 
-## Appendix B: Subscription Pricing (Example)
+## Appendix B: Subscription Pricing
 
 **Standard Pricing (subject to change):**
 - **Monthly:** $2.99/month (billed monthly, auto-renew)
@@ -458,4 +473,4 @@ Pricing in the App Store is localized by region and currency per Apple's pricing
 
 ---
 
-*These Terms of Use agreement is provided in English. If there are discrepancies between this version and any translated version, the English version prevails. Users in non-English-speaking regions may request a translation.*
+*These Terms of Use are provided in English. If there are discrepancies between this version and any translated version, the English version prevails. Users in non-English-speaking regions may request a translation.*
