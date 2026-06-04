@@ -60,7 +60,7 @@ User agreement covering subscriptions, acceptable use, liability, and dispute re
 | | |
 |---|---|
 | **App Store** | [MyStocky on App Store](https://apps.apple.com/app/mystocky/) |
-| **Support Email** | [support@mystocky.app](mailto:support@mystocky.app) |
+| **Support Email** | [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com) |
 | **GitHub Repo** | [Legal Documents](https://github.com/EliCohen/legal) |
 
 ---
@@ -84,7 +84,7 @@ By downloading and using MyStocky, you agree to:
 1. The [Privacy Policy](privacy-policy.md)
 2. The [Terms of Use](terms-of-use.md)
 
-For questions or concerns, contact [support@mystocky.app](mailto:support@mystocky.app).
+For questions or concerns, contact [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com).
 
 ---
 
