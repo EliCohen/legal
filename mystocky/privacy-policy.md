@@ -7,7 +7,7 @@
 
 ## 1. Introduction
 
-MyStocky ("the App," "we," "our," or "us") is an iOS application for managing home inventory and storage. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App, and your rights regarding that information.
+MyStocky ("the App," "we," "our," or "us") is an iOS application for managing home inventory and storage, operated by an individual developer. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App, and your rights regarding that information.
 
 We are committed to protecting your privacy and ensuring you have a positive experience on our App. Please read this Privacy Policy carefully. If you have questions about our privacy practices, contact us at [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com).
 
@@ -39,6 +39,8 @@ We are committed to protecting your privacy and ensuring you have a positive exp
 - Language and locale settings
 - Feature usage (e.g., how often you use the scanner, how many items you add)
 - Error logs and diagnostic information
+
+This diagnostic and usage information is processed locally on your device or through Apple's aggregated, non-identifying reporting. We do **not** use third-party analytics services that profile you (see Section 11).
 
 **Camera Access**
 - The App requests permission to access your device's camera for barcode scanning and taking photos
@@ -74,10 +76,10 @@ We do **not**:
 
 ### 4.1 Local Storage (Free and Premium Users)
 
-**All inventory data (items, locations, quantities, images) is stored on your device** using the secure, encrypted SwiftData database. This local storage is the primary source of truth for your data.
+**All inventory data (items, locations, quantities, images) is stored on your device** using a local SwiftData database. This local storage is the primary source of truth for your data.
 
-- **Encryption:** SwiftData on iOS automatically encrypts data at rest using the device's secure enclave
-- **Backup:** iOS's native backup and restore feature (iCloud Backup or iTunes) includes App data
+- **Encryption:** Your data is protected at rest by **iOS Data Protection**, which encrypts files on your device using keys tied to your device passcode
+- **Backup:** iOS's native backup and restore feature (iCloud Backup or Finder) includes App data
 - **Offline Capability:** You can fully access and manage your inventory without an internet connection
 
 ### 4.2 Cloud Storage (Premium Users Only)
@@ -119,7 +121,7 @@ Premium users who opt into family sharing and multi-device sync have their data 
 ### 6.1 Access and Portability
 
 - You have the right to access, review, and obtain a copy of your personal data
-- Your inventory data is stored on your device in a standard iOS app format and can be backed up via iTunes or iCloud Backup
+- Your inventory data is stored on your device in a standard iOS app format and can be backed up via Finder or iCloud Backup
 
 ### 6.2 Deletion
 
@@ -223,9 +225,9 @@ You have the right to:
 
 Your data may be transferred to servers located outside the EU (e.g., Apple's iCloud infrastructure). By using MyStocky, you consent to such transfers. Apple has implemented appropriate safeguards (Standard Contractual Clauses) to protect data in transit.
 
-### 10.4 Data Protection Officer
+### 10.4 Data Protection Contact
 
-To contact our data protection representative or raise a privacy concern under GDPR, email [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com).
+To raise a privacy concern under GDPR, email [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com).
 
 ---
 
@@ -254,6 +256,8 @@ Your continued use of the App after changes become effective constitutes accepta
 If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
 
 **Email:** [mystocky.app@gmail.com](mailto:mystocky.app@gmail.com)  
+
+MyStocky is operated by an individual developer.
 
 **Response Time:** We will respond to privacy inquiries within 30 days.
 
