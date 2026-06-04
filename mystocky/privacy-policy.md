@@ -1,8 +1,13 @@
+---
+layout: default
+title: MyStocky Privacy Policy
+permalink: /mystocky/privacy-policy/
+---
 
 # Privacy Policy for MyStocky
 
 **Effective Date:** June 2, 2026  
-**Last Updated:** June 3, 2026
+**Last Updated:** June 2, 2026
 
 ---
 
